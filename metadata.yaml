@@ -1,0 +1,6 @@
+name: astrbot_plugin_voice_hearing
+display_name: 语音听觉
+desc: 把 QQ 语音条转成多模态模型能吃的音频输入
+version: v1.0.0
+author: 小肥鱼
+repo: https://github.com/
